@@ -48,6 +48,7 @@ body{
 }
 .card__text--text-right{
     float:right;
+    font-weight: 600;
 }
 .card__text--text-right::before{
     content: url("../images/icon-clock.svg");
